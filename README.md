@@ -166,7 +166,7 @@ These Fabric mods [listed above](#fabric) also offer Forge variants. These are t
 
 
 [Future]: https://futureclient.net/
-[Future Forum]: https://futureclient.net/forum/
+[Future Forums]: https://futureclient.net/forum/
 
 [Abyss]: https://abyssclient.com/
 [Abyss Discord]: https://discord.com/invite/2kJV6ZQBgX
@@ -179,7 +179,7 @@ These Fabric mods [listed above](#fabric) also offer Forge variants. These are t
 [Impact Issues]: https://github.com/ImpactDevelopment/ImpactIssues
 
 [Rusher]: https://rusherhack.org/
-[Rushder Issues]: https://github.com/John200410/rusherhack-issues/
+[Rusher Issues]: https://github.com/John200410/rusherhack-issues/
 
 [Seppuku]: https://seppuku.pw/
 [Seppuku Discord]: https://discord.gg/nf8Dfj4
