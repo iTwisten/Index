@@ -146,7 +146,7 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 | Name | Version | Links |
 | :--: | :-----: | :---: |
 | [Abyss] | **1.12.2** | [Discord][Abyss Discord] |
-| [Future]<sup>[5]</sup> | **1.8.9 & 1.12.2 to 1.14.4** | [Forums][Future Forums]<br>[Discord][Future Discord] |
+| [Future]<sup>[5]</sup> | **1.8.9 & 1.12.2 to 1.14.4** | [Discord][Future Discord]<sup>[9]</sup><br>[Forums][Future Forums] |
 | [Impact]<sup>[5]</sup> | **1.11.2 to 1.16.5** | [Issues][Impact Issues]<sup>[6]</sup> |
 | [Konas] | **1.12.2** | [Discord][Konas Discord]<br>[Issues][Konas Issues] |
 | Phobos<sup>[8]</sup> | **1.12.2** | [Discord][Phobos Discord]<br>[GitHub][Phobos Github] |
@@ -259,6 +259,7 @@ Please consult the [Contribution Guidelines] before opening an Issue or a Pull R
 <sup id="fn6">**6**</sup> Impact previously had a Discord server but it was terminated in a Discord ban-wave.  
 <sup id="fn7">**7**</sup> Sigma is technically 1.16.4 but uses viaversion to connect to servers on lower versions
 <br> <sup id="fn8">**8**</sup> Phobos has not been officialy released by the devs but instead leaked by multiple people. All links related to phobos on this index are **SAFE**.  
+<sup id="fn9">**9**</sup> Unnoficial Discord Server.
 
 [1]: #fn1
 [2]: #fn2
@@ -268,3 +269,4 @@ Please consult the [Contribution Guidelines] before opening an Issue or a Pull R
 [6]: #fn6
 [7]: #fn7
 [8]: #fn8
+[9]: #fn9
